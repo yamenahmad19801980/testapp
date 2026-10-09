@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sky Land Real Estate",
+  "description": "منصة سكاي لاند العقارية الرائدة في طرطوس وسوريا للبيع والشراء والاستثمار العقاري والخدمات الهندسية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
